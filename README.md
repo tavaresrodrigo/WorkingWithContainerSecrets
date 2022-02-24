@@ -1,0 +1,2 @@
+# WorkingWithContainerSecrets
+Applications often needs to connect with external entities like databases or api endpoints, this communication between multiple systems and microservice must be secure, a service most likely will require authentication to set permissions and boundaries to the requester, how dow we pass the data necessary for this authentication in containers? In this article we will see how to get information into a container in a safe manner. 
